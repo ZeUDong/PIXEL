@@ -1,0 +1,14 @@
+.idea/
+/submit/data
+csvs
+csvs/
+*.csv
+*.xlsx
+*.ipynb
+*.pth
+*.zip
+/submit/logs
+__pycache__/
+.DS_Store
+*.png
+*.jpg
